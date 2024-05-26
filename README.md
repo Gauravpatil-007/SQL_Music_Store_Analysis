@@ -10,3 +10,6 @@ This project is for beginners and will teach you how to analyze the music playli
 • PgAdmin4
 
 • Schema- Music Store Database
+
+![Uploading 213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png…]()
+
